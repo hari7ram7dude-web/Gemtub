@@ -1,0 +1,8 @@
+{
+  "name": "Copy of GemTube",
+  "description": "A sophisticated YouTube-like platform featuring AI-powered video summaries, generated descriptions, and integrated Veo video generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
